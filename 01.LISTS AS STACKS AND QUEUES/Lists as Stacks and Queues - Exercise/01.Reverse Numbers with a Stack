@@ -1,0 +1,7 @@
+integers = [int(x) for x in input().split()]
+
+reverse = []
+while integers:
+    reverse.append(integers.pop())
+
+print(*reverse)
