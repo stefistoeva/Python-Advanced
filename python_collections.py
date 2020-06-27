@@ -61,3 +61,7 @@ my_tuple = (1, 2, 3, 1, 1)
 my_set = set()
 my_dictionary = {}
 
+
+# first_task -> stacks or queues or both
+# second_task -> matrix
+# third_task -> functions
